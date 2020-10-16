@@ -72,3 +72,5 @@ Here, I've provided the C++ code.
     };
     
 The time complexity of this code will be O(1) as we are doing a constant time operation of finding square root.
+
+The space complexity of this code will be O(1) as we are not taking any extra space.
